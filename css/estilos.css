@@ -1,0 +1,35 @@
+p{
+    color: red;
+    width: 300px;
+}
+
+/*
+Comentario dentro de un dto CSS
+*/
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 30px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    /*padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;*/
+    padding: 40px 30px 20px 10px;
+
+    color: blue;
+    font-weight: bold;
+}
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
